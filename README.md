@@ -8,7 +8,7 @@
 ## 🛠️ Expertise & Solutions
 * **Enterprise AI Governance**: Implementing policy-driven guardrails and automated compliance frameworks for autonomous agent deployments.
 * **Security & Forensic Research**: Specialized in deepfake detection methodologies and multi-modal AI auditing since 2018.
-* **Security Architecture**: Expert in post-quantum, crypto-agile infrastructure and immutable audit ledgers (Sovern-SOR).
+* **Security Architecture**: Post-quantum, crypto-agile infrastructure and immutable audit ledgers (Sovern-SOR).
 * **Strategic Consulting**: Advisory on AI Safety, SRE integration, and regulatory alignment (SB 24-205 / ISO 42001).
 
 ## 🚀 Key Projects & Research
