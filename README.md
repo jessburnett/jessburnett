@@ -1,6 +1,6 @@
 # Jessica Burnett
 
-### Product & Engineering Lead | AI Governance & Security Infrastructure
+### AI Engineering Lead | AI Governance & Security Infrastructure
 **Architecting mission-critical, crypto-agile systems for the agentic frontier. Focusing on agent experiences and orchestration**
 
 ---
