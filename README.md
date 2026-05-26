@@ -29,8 +29,3 @@ I am currently accepting select engagements focused on AI safety auditing and so
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jessburnett&theme=react-dark&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 </p>
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jessburnett&theme=dracula&no-bg=true&no-frame=true" alt="Trophies" />
-</p>
