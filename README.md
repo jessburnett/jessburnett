@@ -1,29 +1,44 @@
+<!--
+meta:
+  title: "Jessica Burnett — AI Security & Governance Architect"
+  description: "Senior software architect (20 yrs) specialized in AI security and governance. Verified contributor to Microsoft's Agent Governance Toolkit. Policy-as-code (OPA/Rego), agentic red teaming, OWASP Agentic Top 10."
+  keywords: [AI security, AI governance, agentic AI, OWASP Agentic Top 10, policy-as-code, OPA, Rego, red teaming, NIST AI RMF, EU AI Act, ISO/IEC 42001, software architect]
+  author: "Jessica Burnett"
+  location: "Colorado Springs, CO"
+  sameAs: [https://github.com/jessburnett, https://www.linkedin.com/in/jessicaburnett-tech, https://jesbur-labs.com]
+  updated: 2026-08-11
+  doc_version: v2
+-->
+
 # Jessica Burnett
 
-### AI Engineering Lead | AI Governance & Security Infrastructure
-**Architecting mission-critical, crypto-agile systems for the agentic frontier. Focusing on agent experiences and orchestration**
+### AI Security & Governance Architect | Contributor to Microsoft's Agent Governance Toolkit
+
+**20 years building and shipping production software, now specialized in securing and governing agentic AI systems.**
 
 ---
 
-## 🛠️ Expertise & Solutions
-* **Enterprise AI Governance**: Implementing policy-driven guardrails and automated compliance frameworks for autonomous agent deployments.
-* **Security & Forensic Research**: Specialized in deepfake detection methodologies and multi-modal AI auditing since 2018.
-* **Security Architecture**: Expert in post-quantum, crypto-agile infrastructure and immutable audit ledgers (Sovern-SOR).
-* **Strategic Consulting**: Advisory on AI Safety, SRE integration, and regulatory alignment (SB 24-205 / ISO 42001).
+## 🛠️ What I Do
 
-## 🚀 Key Projects & Research
-* **[Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit)**: Early adopter and contributor to Microsoft’s safety framework for AI Site Reliability Engineering (SRE).
-* **Deepfake & Synthetic Media (Thorn)**: 2018 research initiative focused on the identification and mitigation of adversarial synthetic media to protect vulnerable populations.
-* **AI Pipeline Architecture (Sparks & Honey)**: Software Architect lead for the integration and consumption of offshore AI products, managing high-scale data pipelines and model orchestration in 2018.
-* **Computer Vision & Ethical ML (Clarifai)**: Early research (2018) in orchestrating deep learning models for image recognition with a focus on visual data privacy and ethical governance.
-* **Sovern-SOR**: Developing immutable, distributed ledger technology for transparent AI decision-tracking and forensic auditing.
+* **AI Governance & Policy-as-Code** — Design and implement policy-driven guardrails for autonomous agents using OPA/Rego, mapped to the OWASP Agentic Top 10, NIST AI RMF, the EU AI Act, and ISO/IEC 42001.
+* **AI Security & Red Teaming** — Threat-model and adversarially test agentic systems against the OWASP Agentic Top 10 (ASI01–ASI10): prompt injection, tool misuse, identity/privilege abuse, and inter-agent communication risks.
+* **Software & Systems Architecture** — Full-stack and distributed-systems architecture with two decades of SDLC ownership across startups and enterprise (Python/FastAPI, TypeScript/Next.js, React, Node.js, Docker, CI/CD, AWS/Azure/GCP).
+* **Technical Advisory** — Translate AI risk into terms engineers, executives, and auditors can each act on and verify.
 
-## 🤝 Professional Inquiries
-I am currently accepting select engagements focused on AI safety auditing and sovereign infrastructure architecture.
+## 🚀 Verified Contribution
 
-* **LinkedIn**: [jessicaburnett-tech](https://www.linkedin.com/in/jessicaburnett-tech)
-* **Email**: [jessica.burnett.tech@gmail.com](mailto:jessica.burnett.tech@gmail.com)
-* **Location**: Colorado Springs, CO
+* **[Microsoft Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit)** — Authored and merged OWASP Agentic Top 10–mapped starter policy packs (healthcare, financial services, general SaaS) into the upstream project's main branch. *(Contribution is public and verifiable in the repository's commit history.)*
+
+## 🎯 Current Focus
+
+Independent AI security and governance practice (Jesbur Labs LLC): agentic governance readiness assessments, policy-as-code (OPA/Rego) enforcement mapped to the OWASP Agentic Top 10, and red-teaming of agentic systems. Currently accepting select engagements in AI security auditing and governance architecture.
+
+## 🤝 Contact
+
+* **LinkedIn:** [jessicaburnett-tech](https://www.linkedin.com/in/jessicaburnett-tech)
+* **Private Labs:** [Jesbur Labs, LLC](https://jesbur-labs.com)
+* **Email:** jessica.burnett.tech@gmail.com
+* **Location:** Colorado Springs, CO (open to remote)
 
 ## 📈 Open Source Contribution Activity
 <p align="center">
