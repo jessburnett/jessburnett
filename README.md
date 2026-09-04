@@ -12,7 +12,7 @@ meta:
 
 # Jessica Burnett
 
-### AI Security & Governance Architect | Contributor to Microsoft's Agent Governance Toolkit
+### Software Architect focused on AI Security & Governance Architect | Contributor to Microsoft's Agent Governance Toolkit
 
 **20 years building and shipping production software, now specialized in securing and governing agentic AI systems.**
 
